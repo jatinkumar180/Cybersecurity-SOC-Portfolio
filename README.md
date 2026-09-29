@@ -19,4 +19,4 @@ Self-taught aspiring SOC Level 1 Analyst focusing on Incident Response, Log Anal
 - **Frameworks:** MITRE ATT&CK, Cyber Kill Chain, Pyramid of Pain
 
 ## 📫 Connect With Me
-- **LinkedIn:** [Your LinkedIn Profile Link]
+- **LinkedIn:** [Your LinkedIn Profile Link].
